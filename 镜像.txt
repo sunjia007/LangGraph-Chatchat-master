@@ -1,0 +1,4 @@
+清华：
+https://pypi.tuna.tsinghua.edu.cn/simple
+阿里：
+https://mirrors.aliyun.com/pypi/simple/
